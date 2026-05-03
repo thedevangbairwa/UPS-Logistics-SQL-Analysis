@@ -1,0 +1,15 @@
+# System files
+.DS_Store
+Thumbs.db
+
+# Temporary Office files
+~$*.xlsx
+~$*.pptx
+~$*.docx
+
+# MySQL / logs
+*.log
+
+# Large backup files
+*.bak
+*.tmp
